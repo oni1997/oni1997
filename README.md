@@ -7,7 +7,6 @@
 - 📫 How to reach me:
   - Email: dzidzaimaenza@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/onesmus-maenzani-se-100432252/)
-  - [GitHub](https://github.com/oni1997)
 
 ## My Tech Stack
 
