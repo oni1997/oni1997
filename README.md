@@ -85,6 +85,7 @@
   - Geekulcha and Centre for Public Service Innovation - 3RD Place
   - Coca Cola Generation Z Hackathon - Cape Town Winner
   - Coca Cola Generation Z Hackathon - Africa Winner
+  - Celo Mobile Blockchain Game Hackathon - Cape Town Winner
 
 # Stats for Nerds
 <a href="https://github.com/anuraghazra/github-readme-stats">
