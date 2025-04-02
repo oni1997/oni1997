@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-Experienced FinTech Software Engineer specializing in secure payment systems and blockchain technology. Proven track record of building high-performance backend services with Go and Python, handling 300K+ daily transactions with 99.99% uptime. Passionate about leveraging cutting-edge technology to innovate in the financial sector.
+Experienced FinTech Software Engineer specializing in secure payment systems and blockchain technology. Proven track record of building high-performance backend services with Go and Python. Passionate about leveraging cutting-edge technology to innovate in the financial sector.
 
 ### 🎯 Core Expertise
 - 🔐 Secure payment processing systems & PCI DSS compliance
@@ -81,7 +81,6 @@ var skills = Expertise{
 
 ### Secure Payment Platform (2024)
 - Scalable payment system with ML-powered fraud detection
-- 100K+ daily transactions
 - Tech: Golang, TensorFlow, PostgreSQL, Docker
 - PCI DSS compliant
 
