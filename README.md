@@ -38,7 +38,7 @@ Welcome to my GitHub profile 🚀
 
 ---
 
-## 🚀 Projects & Work
+## Projects & Work
 
 ### Secure Payment Systems
 - Built and maintained high-performance backend services
@@ -53,19 +53,49 @@ Welcome to my GitHub profile 🚀
 - APIs, dashboards, and automation tools
 - Game and web applications using React and Firebase
 
-Explore my repositories below to see my work 👇
+Explore my repositories below to see my work 
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oni1997&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oni1997&layout=compact)
+<div align="center">
+
+![Onesmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=oni1997&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oni1997&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oni1997&theme=radical&hide_border=true)
+
+</div>
+
+*Yeah, I actually commit most days. Building stuff is kinda my thing.*
 
 ---
 
-## 🔗 Let’s Connect
+## Let's Talk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onesmus-maenzanise-100432252/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/onesmus-maenzanise-100432252/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/oni1997)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
-Thanks for visiting my profile—happy coding! 🚀
+**Best ways to reach me:**
+- LinkedIn DM (I actually check these)
+- Email for serious stuff
+- GitHub issues if it's project-related
+
+---
+
+<div align="center">
+
+### *"Build things that matter. Write code you're proud of. Help others along the way."*
+
+---
+
+**Thanks for stopping by.** Star a repo if you find something useful. Open an issue if you find something broken. Say hi if you want to talk tech.
+
+👇 **Check out my pinned repos below** 👇
+
+</div>
+
+---
