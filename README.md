@@ -1,101 +1,87 @@
 # Onesmus Dzidzai Maenzanise 👋
 
-Hello, GitHub!  
-I'm **Onesmus**, a Software Development student at **Brigham Young University–Idaho** and a backend-focused Software Engineer with industry experience in building secure, scalable systems.
+Hello, GitHub!
 
-Welcome to my GitHub profile 🚀
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Bachelor of Applied Science in Software Development (BYU–Idaho)
-- 💼 Software Engineer in the telecom and FinTech space
-- 🔧 Passionate about backend systems, APIs, and data-driven platforms
-- 🌱 Currently deepening my knowledge in distributed systems and cloud infrastructure
+I'm **Onesmus**, a Software Engineer focused on backend systems and APIs.
+I’m currently studying Software Development at **BYU–Idaho** and I also went through **WeThinkCode_**, where I built my foundation in software development.
 
 ---
 
-## 🛠 Technologies & Tools
+## About Me
 
-### Programming Languages
-- Go (Golang)
-- Python
-- JavaScript
-- SQL
+* Studying Software Development at BYU–Idaho (Bachelor of Science Software Development)
+* WeThinkCode_ graduate (NQF 5 Information Technology – Systems Development)
+* Working in Telecom and FinTech systems
+* Mostly focused on backend development
+* Learning more about system design and cloud technologies
+* I also enjoy chess
+---
 
-### Backend & Systems
-- RESTful APIs
-- Microservices Architecture
-- Authentication (OAuth 2.0, JWT)
-- Webhooks & Third-Party Integrations
+## Tech I Use
 
-### Data & Infrastructure
-- PostgreSQL, MySQL
-- Docker
-- CI/CD Pipelines
-- Cloud-native development
+* Go (Golang)
+* Python
+* JavaScript (React, Vue, TypeScript)
+* Nodejs
+* SQL
+
+**Backend stuff**
+
+* REST APIs
+* Microservices
+* JWT / OAuth2
+* Webhooks / integrations
+
+**Tools**
+
+* Docker
+* PostgreSQL / MySQL
+* CI/CD pipelines
 
 ---
 
-## Projects & Work
+## Work
 
-### Secure Payment Systems
-- Built and maintained high-performance backend services
-- Focus on security, reliability, and scalability
-- Technologies: Go, Python, SQL, Docker
+### Telecom & FinTech Systems
 
-### Data & Analytics Platforms
-- Designed ingestion pipelines and market analytics tools
-- Focused on clean data modeling and performance
-
-### Academic & Personal Projects
-- APIs, dashboards, and automation tools
-- Game and web applications using React and Firebase
-
-Explore my repositories below to see my work 
+* Built and maintained backend APIs used in production systems
+* Worked on integrations with external services
+* Handled authentication and secure data flows
+* Focused on making systems stable and reliable
 
 ---
 
-## GitHub Stats
+## Projects
+
+* Payment and integration backend systems
+* API gateway and webhook services
+* Apps and tools using React and Firebase
+* Personal experiments with backend architecture
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Onesmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=oni1997&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=oni1997\&show_icons=true\&theme=radical\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oni1997&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oni1997&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oni1997\&layout=compact\&theme=radical\&hide_border=true)
 
 </div>
 
-*Yeah, I actually commit most days. Building stuff is kinda my thing.*
+---
+
+## 📬 Contact
+
+* LinkedIn: [https://www.linkedin.com/in/onesmus-maenzanise-100432252/](https://www.linkedin.com/in/onesmus-maenzanise-100432252/)
+* GitHub: [https://github.com/oni1997](https://github.com/oni1997)
+* Email: [dzidzaimaenza@gmail.com](mailto:dzidzaimaenza@gmail.com)
 
 ---
 
-## Let's Talk
+## Quote I like
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/onesmus-maenzanise-100432252/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/oni1997)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-**Best ways to reach me:**
-- LinkedIn DM (I actually check these)
-- Email for serious stuff
-- GitHub issues if it's project-related
-
----
-
-<div align="center">
-
-### *"Build things that matter. Write code you're proud of. Help others along the way."*
-
----
-
-**Thanks for stopping by.** Star a repo if you find something useful. Open an issue if you find something broken. Say hi if you want to talk tech.
-
-👇 **Check out my pinned repos below** 👇
-
-</div>
+*"Chemistry is, well technically, chemistry is the study of matter.  But I prefer to see it as the study of change."*
 
 ---
